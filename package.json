@@ -1,6 +1,6 @@
 {
     "name": "pix-client",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Uma lib para facilitar o uso da API do mercado pago para pagamentos via PIX",
     "author": "Nassinger",
     "keywords": [
