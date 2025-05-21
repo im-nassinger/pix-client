@@ -1,0 +1,29 @@
+{
+    "name": "pix-client",
+    "version": "1.0.0",
+    "description": "Uma lib para facilitar o uso da API do mercado pago para pagamentos via PIX.",
+    "author": "Nassinger",
+    "keywords": [
+        "pix-client",
+        "pix",
+        "mercadopago",
+        "pagamento"
+    ],
+    "main": "index.js",
+    "type": "module",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@ngrok/ngrok": "^1.5.1",
+        "mercadopago": "^2.7.0"
+    },
+    "devDependencies": {
+        "@types/node": "^22.15.21",
+        "typescript": "^5.8.3"
+    }
+}
