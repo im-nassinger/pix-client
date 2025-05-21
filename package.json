@@ -17,6 +17,10 @@
     "scripts": {
         "build": "tsc"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/im-nassinger/pix-client.git"
+    },
     "license": "MIT",
     "dependencies": {
         "@ngrok/ngrok": "^1.5.1",
