@@ -33,7 +33,7 @@ O pix-client oferece dois modos de operação:
    configuráveis pelo usuário. Embora não seja em tempo real, não requer um
    servidor HTTP nem um token de acesso do Ngrok.
 
-## Exemplos de Uso
+## Exemplo de Uso
 
 Aqui está um exemplo de como utilizar o pix-client para gerar um pagamento via
 PIX:
