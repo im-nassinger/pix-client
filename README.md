@@ -7,6 +7,12 @@ se um pagamento foi concluído e definir um tempo de expiração para o pagament
 
 Antes de utilizar o pix-client, é necessário obter um token de acesso do Mercado Pago. Você pode adquirir um token criando uma conta gratuita, e depois acessando [este link](https://www.mercadopago.com.br/developers/panel).
 
+## Instalação ([NPM](https://www.npmjs.com/package/pix-client)):
+
+```bash
+npm install pix-client
+```
+
 ## Modos de Uso
 
 O pix-client oferece dois modos de operação:
